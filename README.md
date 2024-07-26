@@ -1,0 +1,2 @@
+# Car-Price-Prediction-Model-using-Linear-Regression
+This repository contains a machine learning project focused on predicting car prices using a linear regression model. The project involves data collection, preprocessing, model training, evaluation, and deployment. It aims to accurately estimate car prices based on various features, providing a valuable tool for buyers, sellers, and dealerships.
