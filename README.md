@@ -13,7 +13,7 @@ Deploy the model for practical use in predicting car prices.
 # Dataset
 The dataset used in this project includes the following features:
 
-Make
+-  Make
 Model
 Year
 Mileage
